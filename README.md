@@ -1,4 +1,4 @@
-![logo](https://github.com/vikas-singh-kandari/vikas-singh-kandari/blob/main/Blue%20Geometric%20Technology%20Linkdln%20Banner.png)
+ 
 <h1 align="center">Hi 👋, I'm Vikas Singh</h1>
 <h3 align="center">Hello! I'm Vikas Singh, a versatile developer with expertise in Flutter for mobile app development and backend technologies like Django and Firebase. Passionate about crafting sleek mobile apps, I'm also exploring the realm of full stack web development. Thriving in collaborative and creative environments, I'm an eager learner ready to make a meaningful impact in the tech industry as a Fullstack Web Developer. Let's innovate together! Reach out to me at vikassinghkandari1@gmail.com.</h3>
 
